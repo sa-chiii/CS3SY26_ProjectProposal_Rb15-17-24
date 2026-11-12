@@ -1,16 +1,16 @@
 # CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit of PSHS
 
 
-## Project Proposal Template:
-cvbbbc
-### Project Title or Name of the Application	:
+## Project Proposal Template: 
+
+### Project Title or Name of the Application	: The PISAYMaxxer
 ### Section			   	      : 9-Rubidium
 ### Group Members			    : LOARES, Cleo, MAGHUYOP, Lia, REMIGIO, Luis
 ### Date (Proposal Date)  : Nov 12, 2026
 
 ### Project Description:
 
-- A brief summary of the project description and the need for it.
+- The PISAYMaxxer helps PISAY students of any grade keep track of requirements and their current GWA with the use of OOP.
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 
