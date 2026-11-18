@@ -22,7 +22,7 @@
 - The Student class contains a list of Subject instances. To find the GWA of the quarterly/cumulative, the program goes through the subjects, multiplies its 1.00–5.00 grade with its units, and then divides it by the total units.
 - In the case of compute_quarter_grade(), the Subject class gets all completed tasks for the quarter, gets the weighted percentage, and then converts it to a 1.00–5.00 grade using an internal private helper method convert_pisay_grade() to avoid messy main program.
 - A plain reminder is stored in the Requirement object while the graded tasks such as quiz and exam are stored in the GradedTask object. GradedTask inherits the title, due date, quarter, and mark_done() methods from Requirement via super().__init__().
-- Requirement and GradedTask both have the get_info() method, although they display different information. Requirement.get_info() displays a plain reminder while GradedTask.get_info() overrides it to display the category ([Quiz], [Lab], [MP]) and score.
+- Requirement and GradedTask both have the get_info() method, although they display different information. Requirement.get_info() displays a plain reminder while GradedTask.get_info() overrides it to display the category and score.
 
 **Who are our target users?**
 - The primary demographic of this application are Junior to Senior High School students enrolled in Grade 7 to Grade 12 (ages 12-18 years old). JHS students benefit from tracking 8-10 subjects quarterly, and SHS students will be aided by having reduced burdens from their heavy semester based work loads with regard to weighted scores per strand, plus the demands of research paper writing and capstone projects. The tool helps both JHS and SHS in that way.
