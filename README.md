@@ -36,7 +36,7 @@
 ### Goals:
 With the help of PISAYMaxxer, we aim to help student users and developers alike. For students, the program will help them improve time management and self-regulation. Using a single tool to view both upcoming tasks and academic standing (catered for pisay students) will encourage students to take proactive initiative, build the habit of knowing what they need to prioritize, and reduce academic stress. Additionally, because the program is built with OOP concepts, it is easy to add features, create developments, and improve the experience as years go by. 
 
-- Objective 1: To develop an object-oriented system with the basic principles of OOP for handling students' profiles, subject offerings, and organized academic requirements (Written Work, Alternative Assessment, Periodic Exam).
+- Objective 1: To develop an object-oriented system with the basic principles of OOP for handling students' profiles, subject offerings, and organized academic requirements.
 
 - Objective 2: To create a module for task tracking with deadline reminders so that students can prioritize their academic tasks per subject and avoid missing deadlines as well as cramming on academic requirements.
 
