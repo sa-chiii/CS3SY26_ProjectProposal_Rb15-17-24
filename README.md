@@ -3,7 +3,7 @@
 
 ## Project Proposal Template: 
 
-### Project Title or Name of the Application	: The PISAYMaxxer
+### Project Title or Name of the Application	: The Tomsup Pet Shop
 ### Section			   	      : 9-Rubidium
 ### Group Members			    : LOARES, Cleo, MAGHUYOP, Lia, REMIGIO, Luis
 ### Date (Proposal Date)  : Nov 12, 2026
