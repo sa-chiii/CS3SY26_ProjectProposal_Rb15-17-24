@@ -17,18 +17,12 @@
     1. Pet - Parent class; blue print for all pets with shared survival stats. Its attributes include: name, species, hunger, happiness, and energy. Its methods include: name_pet(), feed(), sleep(), play(), make_sound(), and check_status()
     2. PetShop - Displays available pets and lets user adopt one. Its only attribute is available_pets (list), and its methods include: diespl_pets(), and adopt_pet()
 - Then we have 5 child classes which will inherit from Pet as well as have a unique attribute and method:
-  1. cleo
-  2. sid
+  1. Dog - Attribute: loyalty; Methods: fetch() _--> boosts happiness and loyalty, uses energy_.
+  2. Cat - Attribute: curiosity; Methods: chase_laser() _--> boosts happiness and curiosity, uses energy_.
+  3. Fish - Attribute: water_cleanliness; Methods: clean_tank() _--> restores water_cleanliness to 100 and boosts happiness_
+  4. Bird - Attribute: singing_skill; Methods: sing() _--> increases singing_skill and happiness_
+  5. Bunny - Attribute: fluffiness; Methods: brush_fur() _--> increases fluffiness and happiness, uses a little energy_
   
-    4.  Dog - Attribute: loyalty; Methods: fetch() _--> boosts happiness and loyalty, uses energy_.
-    5. Cat - Attribute: curiosity; Methods: chase_laser() _--> boosts happiness and curiosity, uses energy_.
-    6. Fish - Attribute: water_cleanliness; Methods: clean_tank() _--> restores water_cleanliness to 100 and boosts happiness_
-    7. Bird - Attribute: singing_skill; Methods: sing() _--> increases singing_skill and happiness_
-    8. Bunny - Attribute: fluffiness; Methods: brush_fur() _--> increases fluffiness and happiness, uses a little energy_
-       
-- Then we have 5 child classes which will inherit from Pet as well as have a unique attribute and method:
- 
-
 - Each pet will also override the make_sound method from the parent and make their own sound.
 - Attributes such as hunger, happiness, energy, and every special attribute for each class will be integers from 1-100.
 - Every action (e.g. feed, play, sleep, or special action), the pet's stats update dynamically—and passing time slightly increases hunger and lowers energy.
