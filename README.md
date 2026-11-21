@@ -10,7 +10,7 @@
 
 ### Project Description:
 
-- The Tom's Up Pet Shop... [at least 4 sentences]
+- The Tom's Up Pet Shop is a simulation of a pet shop. The user will run it and take care of multiple pets. You can care for them by feeding them and playing with them. Each pet also has their own attributes. Dogs have loyatly, and cats have curiosity.
 
 **How does it work?**
 - In this program, we have 7 classes: 
