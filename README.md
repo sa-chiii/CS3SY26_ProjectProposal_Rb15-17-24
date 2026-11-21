@@ -25,7 +25,7 @@
   
 - Each pet will also override the make_sound method from the parent and make their own sound.
 - Attributes such as hunger, happiness, energy, and every special attribute for each class will be integers from 1-100.
-- Every action (e.g. feed, play, sleep, or special action), the pet's stats update dynamically—and passing time slightly increases hunger and lowers energy.
+- Every action (e.g. feed, play, sleep, or special action), the pet's stats update dynamically and passing time slightly increases hunger and lowers energy.
 
 **Who are our target users?**
 - The primary demographic of Tom's Up Pet Shop are Junior High School students (ages 12-16) as well as casual gamers who enjoy virtual pet games. This includes students who want a fun, cozy game for leisure and animal lovers!
