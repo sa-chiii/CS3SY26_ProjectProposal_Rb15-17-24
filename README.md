@@ -37,7 +37,7 @@
 The Tom's Up Pet Shop UML Diagram ( https://www.canva.com/design/DAHbiyjlq8s/vGiem0xQE0bymyHopwNK6g/edit?ui=e30 )
 
 ### Goals:
-[insert long-term outcomes]
+
 
 - Objective 1: To design and develop an object-oriented system with the basic principles of OOP using encapsulation, inheritance, and polymorphism.
 
