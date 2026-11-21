@@ -6,7 +6,7 @@
 ### Project Title or Name of the Application	: The Tom's Up Pet Shop
 ### Section			   	      : 9-Rubidium
 ### Group Members			    : LOARES, Cleo, MAGHUYOP, Lia, REMIGIO, Luis
-### Date (Proposal Date)  : Nov 12, 2026
+### Date (Proposal Date)  : November 21, 2026
 
 ### Project Description:
 
