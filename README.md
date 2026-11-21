@@ -34,6 +34,8 @@
 
 ![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
 
+The Tom's Up Pet Shop UML Diagram ( https://www.canva.com/design/DAHbiyjlq8s/vGiem0xQE0bymyHopwNK6g/edit?ui=e30 )
+
 ### Goals:
 [insert long-term outcomes]
 
