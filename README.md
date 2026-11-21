@@ -10,31 +10,36 @@
 
 ### Project Description:
 
-- The Tom's Up Pet Shop...
+- The Tom's Up Pet Shop... [at least 4 sentences]
 
 **How does it work?**
 - In this program, we have 2 classes: 
-    1. class Pet - Parent class; blue print for all pets with shared survival stats. Its attributes include: name, species, hunger, happiness, and energy. Its methods include: feed(), sleep(), play(), make_sound(), and check_status()
-    2. class PetShop - Displays available pets and lets user adopt one. Its only attribute is available_pets (list), and its methods include: diespl_pets(), and adopt_pet()
-- Then we have 5 subclasses:
-      a. class Dog - 
+    1. Pet - Parent class; blue print for all pets with shared survival stats. Its attributes include: name, species, hunger, happiness, and energy. Its methods include: name_pet(), feed(), sleep(), play(), make_sound(), and check_status()
+    2. PetShop - Displays available pets and lets user adopt one. Its only attribute is available_pets (list), and its methods include: diespl_pets(), and adopt_pet()
+       
+- Then we have 5 child classes which will inherit from Pet as well as have a unique attribute and method:
+      a. Dog - Attribute: loyalty; Methods: fetch() _--> boosts happiness and loyalty, uses energy_.
+      b. Cat - Attribute: curiosity; Methods: chase_laser() _--> boosts happiness and curiosity, uses energy_.
+      c. Fish - Attribute: water_cleanliness; Methods: clean_tank() _--> restores water_cleanliness to 100 and boosts happiness_
+      d. Bird - Attribute: singing_skill; Methods: sing() _--> increases singing_skill and happiness_
+      e. Bunny - Attribute: fluffiness; Methods: brush_fur() _--> increases fluffiness and happiness, uses a little energy_
 
+- Each pet will also override the make_sound method from the parent and make their own sound.
+- Attributes such as hunger, happiness, energy, and every special attribute for each class will be integers from 1-100.
+- Every action (e.g. feed, play, sleep, or special action), the pet's stats update dynamically—and passing time slightly increases hunger and lowers energy.
 
 **Who are our target users?**
-
-- The description is then followed by the class diagram, depicting clearly what was described.
+- The primary demographic of Tom's Up Pet Shop are Junior High School students (ages 12-16) as well as casual gamers who enjoy virtual pet games. This includes students who want a fun, cozy game for leisure and animal lovers!
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
 ![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
 
 ### Goals:
-With the help of PISAYMaxxer, we aim to help student users and developers alike. For students, the program will help them improve time management and self-regulation. Using a single tool to view both upcoming tasks and academic standing (catered for pisay students) will encourage students to take proactive initiative, build the habit of knowing what they need to prioritize, and reduce academic stress. Additionally, because the program is built with OOP concepts, it is easy to add features, create developments, and improve the experience as years go by. 
+[insert long-term outcomes]
 
-- Objective 1: To develop an object-oriented system with the basic principles of OOP for handling students' profiles, subject offerings, and organized academic requirements.
+- Objective 1: To design and develop an object-oriented system with the basic principles of OOP using encapsulation, inheritance, and polymorphism.
 
-- Objective 2: To create a module for task tracking with deadline reminders so that students can prioritize their academic tasks per subject and avoid missing deadlines as well as cramming on academic requirements.
-
-- Objective 3: To add an automated GWA Calculation and Grade Simulation feature that will be able to calculate the weighted average grade according to the subject's units and be able to project the student’s academic standing with the next set of academic requirements.
+- Objective 2: To build an interactive pet adoption and care simulation where users can adopt and name a pet from a virtual pet shop and manage its survival stats through daily care actions.
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
